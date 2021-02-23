@@ -7,17 +7,19 @@ Algoritmo "Exercicio - 3"
 // Data atual  : 23/02/2021
 Var
 // Seção de Declarações das variáveis 
-x1 : inteiro
-x2 : inteiro
+a : inteiro
+b : inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-Escreval("Digite um número")
-Leia(x1)
-Escreval("Digite outro número")
-Leia(x2)
 
-Escreva("Os números que você digitou são", x1, " e" ,x2)
+Escreval("Digite um valor")
+Leia(a)
 
+Escreval("Digite outro valor")
+Leia(b)
+
+Escreval("=========================================")
+Escreva("Os valores que você digitou são", a, " e" ,b)
 
 Fimalgoritmo
