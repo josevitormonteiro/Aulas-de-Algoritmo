@@ -1,6 +1,6 @@
 ## Estudos de algoritmo
 
-#### O que está sendo armazenado neste repositório
+### O que está sendo armazenado neste repositório
 
 - Os códigos produzidos durante as aulas de GTI (Atual faculdade que estou fazendo)
 
