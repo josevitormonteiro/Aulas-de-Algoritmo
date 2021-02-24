@@ -18,4 +18,4 @@ console.log('3')
 console.log('2')
 console.log('1')
 
-console.log(`O valor da ${nome} é ${totalCompra}`)
+console.log(`O valor de ${quantidade} unidades de ${nome} é ${totalCompra}`)
