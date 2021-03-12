@@ -6,4 +6,10 @@
 
 - As tarefas e atividades passadas pelo professor durante as aulas
 
-- A versão desses códigos na linguagem de programação que eu estou estudando (Ex: Versão em JavaScript)
+- A versão desses códigos na linguagem de programação que eu estou estudando
+
+- Linguagens nesse repositóro
+
+1. JavaScript
+
+2. Python
